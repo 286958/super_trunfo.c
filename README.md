@@ -32,5 +32,4 @@ Certifique-se de ter o GCC instalado no seu sistema.
 Abra o terminal no diretório do projeto e execute:
 
 ```bash
-gcc super_trunfo.c
-super_trunfo.exe
+gcc super_trunfo.c -o super_trunfo.exe 
